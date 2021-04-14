@@ -1,0 +1,29 @@
+{
+    "name": "BomberHero",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "cubicbird-helper-blocks": "github:felixtsu/cubicbird-helper-blocks#v0.0.6",
+        "color-coded-tilemap": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v0.14.9",
+        "tag": "v0.14.9",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/aef4a4d5453f6bde5ba4cc774ed94f146deb6d68",
+        "target": "1.4.37",
+        "pxt": "5.21.14",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
